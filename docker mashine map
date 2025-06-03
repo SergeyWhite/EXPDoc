@@ -1,0 +1,10 @@
+project/
+├── docker-compose.yml
+├── postgres/
+│   ├── init.sql          # Инициализация БД
+│   └── pg_hba.conf       # Конфиг аутентификации
+├── pgadmin/
+│   └── servers.json      # Преднастройка серверов
+└── app/
+    ├── Dockerfile        # Сборка Go-приложения
+    └── main.go           # Исходный код приложения

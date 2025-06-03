@@ -1,0 +1,102 @@
+{
+    "схема отчета авто": [
+        {
+            "id": "1",
+            "date": "01.01.2022",
+            "city": "src on table city",
+            "doc_type": "Экспертиза",
+            "usluga": "ДТП",
+            "client": "src on table conteradgent",
+            "client_osn": "устав",
+            "stradalec": "src on table conteradgent",
+            "date_dtp": "01.01.2022",
+            "srok": "10",
+            "avto_brand": "src on table avto_brand",
+            "avto_model": "src on table avto_model",
+            "avto_color": "src on table avto_color",
+            "avto_vin": "src on table avto_vin",
+            "avto_reg": "src on table avto_reg",
+            "avto_gosnum": "src on table avto_gosnum",
+            "avto_year": "2022",
+            "pts": "16541654461465432135",
+            "sts": "16541654461465432135",
+            "expert": "src on table user"
+        }
+    ],
+
+    "схема недвижимости": [
+        {
+            "id":"1",
+            "date": "01.01.2022",
+            "city": "src on table city",
+            "doc_type": "Экспертиза",
+            "usluga": "Оценка",
+            "client": "src on table conteradgent",
+            "client_osn": "устав",
+            "stradalec": "src on table conteradgent",
+            "date_dtp": "01.01.2022",
+            "srok": "10",
+            "build_type": "src on table build_type",
+            "street": "src on table street",
+            "house": "1",
+            "appartment": "1",
+            "build": "Г",
+            "area": "54",
+            "build_year": "2022",
+            "doc_1": "16541654461465432135",
+            "kadastr": "16541654461465432135",
+            "expert": "src on table user"
+        }
+    ],
+
+    "схема прочее": [
+        {
+      "id": "1",
+      "date": "01.01.2022",
+      "city": "src on table city",
+      "doc_type": "Экспертиза",
+      "usluga": "Оценка",
+      "client": "src on table conteradgent",
+      "client_osn": "устав",
+      "stradalec": "src on table conteradgent",
+      "date_dtp": "01.01.2022",
+      "srok": "10",
+      "ser_num": "16541654461465432135",
+      "type": "src on table type",
+      "brand": "src on table brand",
+      "model": "src on table model",
+      "color": "src on table color",
+      "damage": "src on table damage",
+      "expert": "src on table user"  
+    }
+    ],
+
+    "схема пользователя приложения":[
+
+        {
+            "id": "1",
+            "name": "Матвеев Алексей владимирович",
+            "work": "Старший айтишник",
+            "phone": "+7(999)999-99-99",
+            "admin": "True",
+            "login": "admin",
+            "password": "admin"
+        }
+    ],
+
+    "схема контрагента": [
+        {
+            "id": "1",
+            "name": "КГБУ или ФИО",
+            "phone": "+7(999)999-99-99",
+            "email": "e-mail",
+            "inn": "235245345",
+            "ogrn": "2423423423422344",
+            "bik": "2423423523523523525",
+            "passport_number": "34634634346346346",
+            "passport_series": "5345345345345345"
+        
+        }
+    ]
+
+}
