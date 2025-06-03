@@ -1,8 +1,9 @@
 package main
 
 import (
-	"doc/internal/psql"
 	"fmt"
+
+	"github.com/SergeyWhite/EXPDoc/internal/psql"
 )
 
 func main() {
